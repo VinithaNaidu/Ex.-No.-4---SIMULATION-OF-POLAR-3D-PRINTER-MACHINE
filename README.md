@@ -34,8 +34,8 @@
 ## Output:
 ![image]![image](https://github.com/VinithaNaidu/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121166004/670923c7-147e-4234-bc84-8e1174eb453b)
 
-### Name:
-### Register Number:
+### Name: D.Vinitha Naidu
+### Register Number: 212222230175
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
