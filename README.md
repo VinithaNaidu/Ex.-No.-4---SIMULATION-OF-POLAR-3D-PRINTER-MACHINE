@@ -1,6 +1,6 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 03.10.2023
+### DATE: 
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -32,7 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![image]![image](https://github.com/VinithaNaidu/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121166004/670923c7-147e-4234-bc84-8e1174eb453b)
+![image](https://github.com/VinithaNaidu/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121166004/670923c7-147e-4234-bc84-8e1174eb453b)
 
 ### Name: D.Vinitha Naidu
 ### Register Number: 212222230175
